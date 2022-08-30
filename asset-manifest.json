@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://davy-learning.github.io/data-visual-preview/static/css/main.63075f6f.css",
-    "main.js": "https://davy-learning.github.io/data-visual-preview/static/js/main.6ce02b4b.js",
+    "main.js": "https://davy-learning.github.io/data-visual-preview/static/js/main.150cc311.js",
     "static/js/787.6736b847.chunk.js": "https://davy-learning.github.io/data-visual-preview/static/js/787.6736b847.chunk.js",
     "index.html": "https://davy-learning.github.io/data-visual-preview/index.html",
     "main.63075f6f.css.map": "https://davy-learning.github.io/data-visual-preview/static/css/main.63075f6f.css.map",
-    "main.6ce02b4b.js.map": "https://davy-learning.github.io/data-visual-preview/static/js/main.6ce02b4b.js.map",
+    "main.150cc311.js.map": "https://davy-learning.github.io/data-visual-preview/static/js/main.150cc311.js.map",
     "787.6736b847.chunk.js.map": "https://davy-learning.github.io/data-visual-preview/static/js/787.6736b847.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63075f6f.css",
-    "static/js/main.6ce02b4b.js"
+    "static/js/main.150cc311.js"
   ]
 }
